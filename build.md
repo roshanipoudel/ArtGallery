@@ -15,13 +15,13 @@ Before you begin, ensure that you have the following dependencies installed:
 1. Clone the repository.
 
    ```sh
-   git clone https://github.com/SusheelThapa/House-Modeling-CG.git
+   git clone https://github.com/roshnipoudel/ArtGallery.git
    ```
 
 2. Move to the Project Directory
 
    ```sh
-   cd House-Modeling-CG
+   cd artgallery
    ```
 
 ### Setting up Libraries
@@ -83,7 +83,7 @@ Before you begin, ensure that you have the following dependencies installed:
 
 ### Setting up Models
 
-1. Download the `models` folder from [here](https://drive.google.com/drive/folders/1FZn9a0Ud0LNCRrs_HPmCfizxk3lFqF3y?usp=sharing)
+1. Download the `models` folder from [here](https://drive.google.com/drive/u/0/folders/1SsTiQRPl9L4nmTRxFMh622qulGTcmW6X)
 
 2. Move downloaded `models` folder inside `projectlearn/res/`
 
