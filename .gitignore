@@ -22,5 +22,6 @@ stb_image.h
 models
 MyProject
 .DS_store
+.DS_Store
 
 !documentation
