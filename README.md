@@ -1,4 +1,4 @@
-# House-Modeling-CG
+# Artistry Gallery
 
 The **House Modeling** is a 3D graphics application that demonstrates the rendering and animation of 3D models using OpenGL and the Assimp library. This project showcases the process of loading 3D models, materials, textures, animations, and simulating real-time rendering using modern graphics techniques.
 
@@ -7,7 +7,6 @@ The **House Modeling** is a 3D graphics application that demonstrates the render
 
 - [Description](#description)
 - [Key Features](#key-features)
-- [Demo](#demo)
 - [Getting Started](#getting-started)
   - [Prerequisites](./build.md#prerequisites)
   - [Building up Project](./build.md#building-the-project)
@@ -37,10 +36,6 @@ The main goal of this project is to provide a hands-on example of working with 3
 
 - **User-Friendly Interface:** An intuitive user interface provides controls for loading models, applying animations, and adjusting camera settings.
 
-## Demo
-
-https://github.com/SusheelThapa/House-Modeling-CG/assets/83917129/2ac36cfc-845f-4dcb-8f00-a55fb6695be7
-
 ## Getting Started
 
 For detailed instructions on building and running the project, please refer to the [`build.md`](./build.md) file in the repository.
@@ -59,4 +54,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or feedback,please contact [Susheel Thapa](mailto:077bct090.susheel@pcampus.edu.np) or [Sandhya Baral](mailto:077bct076.sandhya@pcampus.edu.np).
+For any inquiries or feedback,please contact [Roshni Poudel](mailto:roshnipoudel1556@gmail.com).
