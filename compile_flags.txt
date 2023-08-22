@@ -2,4 +2,4 @@
 -Ilib/glad/include
 -Ilib/glfw/include
 -Ilib/glm
--CXXFLAGS=-std=c++14 ./configure
+-CXXFLAGS=-std=c++11 ./configure
