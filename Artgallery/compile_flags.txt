@@ -1,0 +1,5 @@
+-Iinclude/
+-Ilib/glad/include
+-Ilib/glfw/include
+-Ilib/glm
+std=c++14 ./configure

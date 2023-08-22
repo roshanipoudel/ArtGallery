@@ -1,0 +1,23 @@
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+
+# Custom ignore files and folder
+assimp/
+glfw/
+glm
+imgui/
+glad/
+KHR/
+glad.c
+stb_image.h
+models
+MyProject
