@@ -38,7 +38,6 @@ The main goal of this project is to provide a hands-on example of working with 3
 - **User-Friendly Interface:** An intuitive user interface provides controls for loading models, applying animations, and adjusting camera settings.
 
 ## Final View 
-![Alt text](<Screen Shot 2023-08-22 at 3.03.57 PM.png>) 
 ![Alt text](<Screen Shot 2023-08-22 at 3.04.05 PM.png>)
 
 
