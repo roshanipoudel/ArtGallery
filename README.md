@@ -7,7 +7,7 @@ The **Art Gallery** is a 3D graphics application that demonstrates the rendering
 
 - [Description](#description)
 - [Key Features](#key-features)
-- [Project Look] (#project-look)
+- [Project Look](#project-look)
 - [Getting Started](#getting-started)
   - [Prerequisites](./build.md#prerequisites)
   - [Building up Project](./build.md#building-the-project)
