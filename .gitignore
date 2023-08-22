@@ -21,5 +21,6 @@ glad.c
 stb_image.h
 models
 MyProject
+.DS_store
 
 !documentation
