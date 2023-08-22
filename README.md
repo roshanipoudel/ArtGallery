@@ -1,13 +1,13 @@
 # Artistry Gallery
 
-The **House Modeling** is a 3D graphics application that demonstrates the rendering and animation of 3D models using OpenGL and the Assimp library. This project showcases the process of loading 3D models, materials, textures, animations, and simulating real-time rendering using modern graphics techniques.
+The **Art Gallery** is a 3D graphics application that demonstrates the rendering and animation of 3D models using OpenGL and the Assimp library. This project showcases the process of loading 3D models, materials, textures, animations, and simulating real-time rendering using modern graphics techniques.
 
 
 ## Table of Contents
 
 - [Description](#description)
 - [Key Features](#key-features)
-- [Final View] (#final-view)
+- [Project Look] (#project-look)
 - [Getting Started](#getting-started)
   - [Prerequisites](./build.md#prerequisites)
   - [Building up Project](./build.md#building-the-project)
@@ -37,7 +37,7 @@ The main goal of this project is to provide a hands-on example of working with 3
 
 - **User-Friendly Interface:** An intuitive user interface provides controls for loading models, applying animations, and adjusting camera settings.
 
-## Final View 
+## Project Look
 ![Alt text](<Screen Shot 2023-08-22 at 3.04.05 PM.png>)
 
 
