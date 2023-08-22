@@ -1,0 +1,5 @@
+-Iinclude/
+-Ilib/glad/include
+-Ilib/glfw/include
+-Ilib/glm
+-CXXFLAGS=-std=c++17 ./configure
